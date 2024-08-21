@@ -1,0 +1,83 @@
+{
+    "communication": {
+        "train": [
+            "android-oss/app/src/main",
+            "FairEmail/app/src/main",
+            "Infinity-For-Reddit/app/src/main",
+            "irccloud/src",
+            "Simple-Contacts/app/src/main",
+            "thunderbird-android/app",
+            "tutanota/app-android/app/src/main"
+        ],
+        "test": [
+            "RedReader/src/main",
+            "Tusky/app/src/main",
+            "Xtra/app/src/main"
+        ]
+    },
+    "life": {
+        "train": [
+            "android-money-manager-ex/app/src/main",
+            "Android/app/src/main",
+            "Simple-Calendar/app/src/main",
+            "runnerup/app/src/main",
+            "Transportr/app/src/main",
+            "unstoppable-wallet-android/app/src/main",
+            "uhabits/uhabits-android/src/main"
+        ],
+        "test": [
+            "OpenTracks/src/main",
+            "Photok/app/src/main",
+            "habitica-android/Habitica/src/main"
+        ]
+    },
+    "media": {
+        "train": [
+            "AntennaPod/app/src/main",
+            "jellyfin-android/app/src/main",
+            "Noice for Android/app/src/main",
+            "RetroMusicPlayer/app/src/main",
+            "Voice/app/src/main",
+            "vlc-android/application/vlc-android/src",
+            "SeriesGuide/app/src/main"
+        ],
+        "test": [
+            "cloudstream/app/src/main",
+            "Simple-Gallery/app/src/main",
+            "vanilla/app/src/main"
+        ]
+    },
+    "notes": {
+        "train": [
+            "MyBrain/app/src/main",
+            "neutrinote/app/src/main",
+            "Notally/app/src/main",
+            "Omni-Notes/omniNotes/src/main",
+            "Simple-Notes/app/src/main",
+            "tasks/app/src/main",
+            "notes-android/app/src/main"
+        ],
+        "test": [
+            "aaf-easydiary/app/src/main",
+            "Compose-ToDo/app/src/main",
+            "simplenote-android/Simplenote/src/main"
+        ]
+    },
+    "new": {
+        "train": [
+
+        ],
+        "test": [
+            "Android-Password-Store/app/src/main",
+            "BCR/app/src/main",
+            "fcitx5-android/app/src/main/java",
+            "Feeder/app/src/main",
+            "Iconify/app/src/main",
+            "MaterialFiles/app/src/main/java",
+            "Neo-Backup/app/src/main/java",
+            "Trail-Sense/app/src/main",
+            "QuickNovel/app/src/main",
+            "VinylMusicPlayer/app/src/main"
+        ]
+    }
+}
